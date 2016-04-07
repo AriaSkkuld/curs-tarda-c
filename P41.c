@@ -9,13 +9,13 @@ int main(){
 	}
 	printf("\n");	
 //mostra els numeros
-	printf("Els nombres introduits amb ordre són:\n");
+	printf("Els nombres introduits amb ordre sÃ³n:\n");
 	for(i=0;i<5;i++){
 	printf("Num:%i\n",numeros[i]);
 	}
 	printf("\n");
-//mostra els numeros del revés
-	printf("Els nombres amb ordre invers són:\n");
+//mostra els numeros del revÃ©s
+	printf("Els nombres amb ordre invers sÃ³n:\n");
 	for(i=4;i>=0;i--){
 	printf("Num:%i\n",numeros[i]);
 	}
@@ -25,7 +25,7 @@ int main(){
 	}
 	printf("\n");
 //mostra la suma dels numeros
-	printf("La suma dels nombres és:%i\n",suma);
+	printf("La suma dels nombres Ã©s:%i\n",suma);
 
 
 return 0;	
