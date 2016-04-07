@@ -17,7 +17,7 @@ int main()
   {
     for (d = 0 ; d < numnum - c - 1; d++)
     {
-    //per fer de mes gran a més petit canvia > per <
+    //per fer de mes gran a mÃ©s petit canvia > per <
       if (numeros[d] > numeros[d+1]) 
       {
         canvi = numeros[d];
