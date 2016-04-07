@@ -1,2 +1,2 @@
-# curs-tarda-c
-Exercicis del mòdul de C per tenir-los tots en un lloc i accedir-hi desde tot arreu.
+# CURS PROGRAMACIÒ EN C:
+Els exercicis que fem estàn aqui, juntament amb un pdf amb els anunciats.
